@@ -1,4 +1,4 @@
-20362109564254095
+20363770657509631
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78945,6 +78945,13 @@ Resistor
 0
 2
 2
+SamacSys_Parts
+ULT1225D48NC
+ULT-12/2.5-D48N-C-3
+Power Supply
+0
+8
+8
 SamacSys_Parts
 ULT1225D48NMC
 ULT-12/2.5-D48NM-C-5
