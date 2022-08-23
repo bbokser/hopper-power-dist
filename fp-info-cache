@@ -1,4 +1,4 @@
-20363770657509631
+20377060466857716
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78911,9 +78911,30 @@ TVS Diode (Bi-directional)
 2
 2
 SamacSys_Parts
+CAPPM7959X262N
+SMDJ
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
 DIOAD4425W136L885D885
 15KPA
 Diode
+0
+2
+2
+SamacSys_Parts
+DIOM7959X262N
+SMDJ
+TVS Diode (Uni-directional)
+0
+2
+2
+SamacSys_Parts
+FUSC3216X123N
+SF-1206s4
+Fuse
 0
 2
 2
@@ -78925,12 +78946,33 @@ Switch
 9
 9
 SamacSys_Parts
+JTL6048S15
+JTL6048S15-4
+Undefined or Miscellaneous
+0
+6
+6
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+PRQ75WQ48S15D
+PRQ75W-Q48-S15-D-2
+Power Supply
+0
+8
+8
+SamacSys_Parts
+PTVS10066CM
+PTVS10-066C-M-4
+TVS Diode (Bi-directional)
+0
+3
+3
 SamacSys_Parts
 RESAD4762W86L2222D635
 B12
@@ -86044,6 +86086,20 @@ varistor SIOV
 2
 2
 XT60PW-F
+AMASS_XT60-F
+
+
+0
+2
+2
+XT60PW-F
+AMASS_XT60-M
+
+
+0
+2
+2
+XT60PW-F
 AMASS_XT60PW-F
 
 
@@ -86079,7 +86135,7 @@ Resistor
 2
 2
 benbokser
-CP_Elec_8x10_MAL214699903E3
+CP_Elec_8x10_150CRZ
 SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
 capacitor electrolytic
 0
