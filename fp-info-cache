@@ -1,4 +1,4 @@
-20377060466857716
+20382044311748795
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78911,6 +78911,13 @@ TVS Diode (Bi-directional)
 2
 2
 SamacSys_Parts
+CAPC3225X270N
+325
+Capacitor
+0
+2
+2
+SamacSys_Parts
 CAPPM7959X262N
 SMDJ
 Capacitor Polarised
@@ -78946,12 +78953,26 @@ Switch
 9
 9
 SamacSys_Parts
+INDPM120120X800N
+12.3 mm x 12.3 mm
+Inductor
+0
+2
+2
+SamacSys_Parts
 JTL6048S15
 JTL6048S15-4
 Undefined or Miscellaneous
 0
 6
 6
+SamacSys_Parts
+LPS6235123MRC
+LPS6235-123MRC-1
+Inductor
+0
+2
+2
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
@@ -78972,7 +78993,7 @@ PTVS10-066C-M-4
 TVS Diode (Bi-directional)
 0
 3
-3
+2
 SamacSys_Parts
 RESAD4762W86L2222D635
 B12
